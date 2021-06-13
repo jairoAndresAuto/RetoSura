@@ -1,0 +1,12 @@
+com/saucedemo/certificación/pageobject/LoginPageObject.java
+ com.saucedemo.certificación.pageobject.LoginPageObject
+com/saucedemo/certificación/utils/MetodosGenericos.java
+ com.saucedemo.certificación.utils.MetodosGenericos
+com/saucedemo/certificación/pageobject/MensajePageObject.java
+ com.saucedemo.certificación.pageobject.MensajePageObject
+com/saucedemo/certificación/pageobject/IngresarInformacionPageObject.java
+ com.saucedemo.certificación.pageobject.IngresarInformacionPageObject
+com/saucedemo/certificación/steps/ComprarArticuloSteps.java
+ com.saucedemo.certificación.steps.ComprarArticuloSteps
+com/saucedemo/certificación/pageobject/EscogerProductoPageObject.java
+ com.saucedemo.certificación.pageobject.EscogerProductoPageObject

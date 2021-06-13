@@ -1,0 +1,4 @@
+com/saucedemo/certificación/runners/ComprarArticuloRunner.java
+ com.saucedemo.certificación.runners.ComprarArticuloRunner
+com/saucedemo/certificación/stepdefinition/ComprarArticulo.java
+ com.saucedemo.certificación.stepdefinition.ComprarArticulo
